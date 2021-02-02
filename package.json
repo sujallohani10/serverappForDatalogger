@@ -1,0 +1,19 @@
+{
+  "name": "appserver",
+  "version": "1.0.0",
+  "description": "dronelogger server app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Govinda Lohani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "helmet": "^4.1.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.6.2"
+  }
+}
